@@ -1,2 +1,2 @@
 srcs := gds/*.c
-INCS := gds
+INCS := .
